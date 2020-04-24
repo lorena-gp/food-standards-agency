@@ -99,7 +99,7 @@ The dashboard components can be executed within the notebook, where further inst
 
 ### On a website
 In order to access the dashboard online, there are two options.
-Go to https://mybinder.org/v2/gh/lorena-gp/food-standards-agency/app/master?filepath=voila%2Frender%2FFood-and-You-survey_risks.ipynb
+Go to https://mybinder.org/v2/gh/lorena-gp/food-standards-agency/app/master?filepath=voila%2Frender%2FFood-and-You-survey_risks.ipynb \
 Or, alternatively:
 * go to [Binder](https://mybinder.org/)
 * select GitHub under __GitHub repository name or URL__ and insert the appropiate path name (for example, `my-repository/app`) for the remote open repository where the dashboard code is hosted (such as the `app` folder in here). 
