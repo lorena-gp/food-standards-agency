@@ -98,7 +98,7 @@ Correlation analysis is performed on the F&Y survey data to identify which featu
 The dashboard components can be executed within the notebook, where further instructions are included.
 
 ### On a website
-In order to access the dashboard online, there are two options. \ 
+In order to access the dashboard online, there are two options. 
 Go to the website below: \
 https://mybinder.org/v2/gh/lorena-gp/food-standards-agency/app/master?filepath=voila%2Frender%2FFood-and-You-survey_risks.ipynb \
 Or, alternatively:
