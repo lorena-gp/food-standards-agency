@@ -75,13 +75,13 @@ Two dictionaries were built. The first one translates question names from their 
 
 ### Data Visualization
 
-Principal Component Analysis (PCA) is used to explore the raw data in order to understand global patterns present within the whole F&Y dataset for Wales.
-
 A timeline of the evolution of the F&Y survey demographics is plotted using `custom_lineplots`. 
 
 Demographic variables (age, gender, marital status, religion, health status, work status, deprivation) are compared between the F&Y survey and the census using `custom_barplots`. 
 
 Demographic variables are also taken into consideration for the analysis of questions of interest related to food safety, using the F&Y survey data and `custom_barplots`.
+
+Principal Component Analysis (PCA) is used to explore the raw data in order to understand global patterns present within the whole F&Y dataset for Wales.
 
 ### Statistical Analysis
 
